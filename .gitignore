@@ -1,3 +1,4 @@
 /.venv/
 /win_venv/
 /PSQL admin password (на работе).txt
+/social-media-app/node_modules/.cache/
